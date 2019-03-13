@@ -1,4 +1,4 @@
-# Online Judge for Teaching and Learning, Nankai Univ.
+# Online Judge for Teaching and Learning, Nankai University
 
 > 一个适用于教学场景的Online Judge系统
 
