@@ -1,13 +1,13 @@
-# docsify-themeable
+# Online Judge for Teaching and Learning, Nankai Univ.
 
-> A delightfully simple theme system for [docsify.js](https://docsify.js.org)
+> 一个适用于教学场景的Online Judge系统
 
-- Based on CSS custom properties
-- No packages to install or files to build
-- Improved desktop and mobile experience
-- Multiple themes available
-- Legacy browser support (IE10+)
+- 为学生提供某种功能
+- 教师能够方便的做某种事情
+- 助教也能方便地完成工作
+- 编不出来了
+- 还有这样那样的功能
 
-[Get Started](introduction)
-[Demo Sandbox](https://codesandbox.io/s/xv36w4695o)
-[GitHub](https://github.com/jhildenbiddle/docsify-themeable)
+[Quick Start](introduction)
+<!-- [Demo Sandbox](https://codesandbox.io/s/xv36w4695o) -->
+[GitHub](https://github.com/nestdream/bugfree)

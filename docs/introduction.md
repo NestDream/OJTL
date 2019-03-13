@@ -1,9 +1,26 @@
-# Introduction
-Our general introduction here.  如果写中文会发生什么呢？字体会不会很难看？
-## Features
-What is the feature of our OJ?
-## Contact & Support
-How to contact us if you need.  Just put some information of our teammates here.
+# 简介
+![Nankai Univ.](http://www.nankai.edu.cn/_upload/tpl/00/3f/63/template63/images/logo.png "我是爱南开的")  
+Our general introduction here.  
+我们的OJ名字是 Online Judge for Teaching and Learning.   
+顾名思义，就是一个**专注教育平台**的OJ系统。
+
+## 快速开始
+这里填写如何简单上手我们的应用。(๑•̀ㅂ•́)و✧
+
+
+## 项目特点
+What is the feature of our OJ?  
+
+showing our  `code`
+
+```javascript
+const add   = (num1, num2) => num1 + num2;
+const total = add(1, 2);
+
+console.log(total); // 3
+```
+## 联系 & 支持
+如果做的人太多的话，联系链接应该也不需要了
 ## License
 This project is licensed under the [MIT license](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE).
 <!-- 
