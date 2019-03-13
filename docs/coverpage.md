@@ -8,6 +8,6 @@
 - 编不出来了
 - 还有这样那样的功能
 
-[Quick Start](introduction)
+[开始浏览文档](introduction)
 <!-- [Demo Sandbox](https://codesandbox.io/s/xv36w4695o) -->
 [GitHub](https://github.com/nestdream/bugfree)
