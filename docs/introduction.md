@@ -1,9 +1,11 @@
 # 简介
 ![Nankai Univ.](http://www.nankai.edu.cn/_upload/tpl/00/3f/63/template63/images/logo.png "我是爱南开的")  
 Our general introduction here.  
-我们的OJ名字是 Online Judge for Teaching and Learning.   
-顾名思义，就是一个**专注教育平台**的OJ系统。
-
+我们的项目名字是 Online Judge for Teaching and Learning.   
+适用于**教学平台**的OJ系统。
+- **主题**
+- <a href="#" data-link-title="Simple Dark">夜间模式</a>
+- <a href="#" data-link-title="Simple">日间模式</a>
 ## 快速开始
 这里填写如何简单上手我们的应用。(๑•̀ㅂ•́)و✧
 
