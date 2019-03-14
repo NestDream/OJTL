@@ -1,4 +1,4 @@
-# Markdown
+# Markdown Playground
 这个文档可以帮助大家迅速学会markdown的使用。
 ## Headings
 
