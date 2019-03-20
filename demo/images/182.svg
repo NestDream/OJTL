@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="184px" height="93px" viewBox="0 0 184 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 1 Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,3.99941455 C0,1.79059889 1.78707153,0 4.00767122,0 L163.992329,0 C166.205704,0 168,1.79774843 168,3.99941455 L168,68.0005854 C168,70.2094011 166.212928,72 163.992329,72 L4.00767122,72 C1.79429552,72 0,70.2022516 0,68.0005854 L0,3.99941455 Z M147,78 L142,72 L152,72 L147,78 Z" id="path-1"></path>
+        <filter x="-7.7%" y="-14.1%" width="115.5%" height="133.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Templates-模板页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="高级详情页" transform="translate(-656.000000, -322.000000)">
+            <g id="Group-7-Copy-2" transform="translate(664.000000, 328.000000)">
+                <g id="Rectangle-1-Copy-3" transform="translate(84.000000, 39.000000) scale(-1, 1) translate(-84.000000, -39.000000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

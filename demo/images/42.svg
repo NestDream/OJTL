@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.9999999%" y1="0.000675229319%" x2="49.9999999%" y2="99.9996626%" id="linearGradient-1">
+            <stop stop-color="#F0776F" offset="3.22%"></stop>
+            <stop stop-color="#F0656F" offset="50.32%"></stop>
+            <stop stop-color="#F0606F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Templates-模板页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="404" transform="translate(-35.000000, -28.000000)" fill-rule="nonzero" fill="url(#linearGradient-1)">
+            <g id="Group-11" transform="translate(24.000000, 17.000000)">
+                <g id="Group-5">
+                    <g id="T1B9hfXcdvXXXXXXXX">
+                        <path d="M15.957647,20.6048628 C18.5242353,20.6048628 20.6048628,18.5242353 20.6048628,15.957647 C20.6048628,13.3910588 18.5242353,11.3104314 15.957647,11.3104314 C13.3910588,11.3104314 11.3104314,13.3910588 11.3104314,15.957647 C11.3104314,18.5242353 13.3910588,20.6048628 15.957647,20.6048628 Z M15.957647,18.3730196 C14.6236863,18.3730196 13.5422745,17.2916079 13.5422745,15.957647 C13.5422745,14.6236863 14.6236863,13.5422745 15.957647,13.5422745 C17.2916079,13.5422745 18.3730196,14.6236863 18.3730196,15.957647 C18.3730196,17.2916079 17.2916079,18.3730196 15.957647,18.3730196 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="12px" viewBox="0 0 13 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Templates-模板页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.45">
+        <g id="卡片列表" transform="translate(-420.000000, -374.000000)" fill-rule="nonzero" fill="#000000">
+            <g id="Group-6" transform="translate(418.000000, 368.000000)">
+                <g id="Group-54" transform="translate(0.000000, 4.000000)">
+                    <g id="plus" transform="translate(1.953125, 2.000000)">
+                        <path d="M11.5390625,5.421875 L6.5625,5.421875 L6.5625,0.5703125 C6.5625,0.259375 6.3109375,0.0078125 6,0.0078125 C5.6890625,0.0078125 5.4375,0.259375 5.4375,0.5703125 L5.4375,5.421875 L0.5703125,5.421875 C0.259375,5.421875 0.0078125,5.6734375 0.0078125,5.984375 C0.0078125,6.2953125 0.259375,6.546875 0.5703125,6.546875 L5.4375,6.546875 L5.4375,11.4140625 C5.4375,11.725 5.6890625,11.9765625 6,11.9765625 C6.3109375,11.9765625 6.5625,11.725 6.5625,11.4140625 L6.5625,6.546875 L11.5390625,6.546875 C11.85,6.546875 12.1015625,6.2953125 12.1015625,5.984375 C12.1015625,5.6734375 11.85,5.421875 11.5390625,5.421875 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2px" height="3px" viewBox="0 0 2 3" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Templates-模板页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.65">
+        <g id="404" transform="translate(-30.000000, -610.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="Group-3" transform="translate(0.000000, 1.000000)">
+                <g id="Group-7-Copy" transform="translate(24.000000, 600.000000)">
+                    <g id="error" transform="translate(0.218750, 0.861328)">
+                        <path d="M6.78125,9.0234375 C6.47910156,9.0234375 6.234375,9.26816406 6.234375,9.5703125 L6.234375,9.734375 C6.234375,10.0365234 6.47910156,10.28125 6.78125,10.28125 C7.08339844,10.28125 7.328125,10.0365234 7.328125,9.734375 L7.328125,9.5703125 C7.328125,9.26816406 7.08339844,9.0234375 6.78125,9.0234375 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
