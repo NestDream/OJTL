@@ -1,10 +1,10 @@
 # 简介
+?> **更新** 我们更新了[前端文档](frontend-docs)和[后端文档](backend-docs)，分别包含前端*流程图*和*数据库设计*。
 ![Nankai Univ.](http://www.nankai.edu.cn/_upload/tpl/00/3f/63/template63/images/logo.png "我是爱南开的")  
 Our general introduction here.  
 我们的项目名字是 Online Judge for Teaching and Learning.   
 适用于**教学平台**的OJ系统。
 
-?> **更新** 我们更新了[前端文档](frontend-docs)和[后端文档](backend-docs)，分别包含前端*流程图*和*数据库设计*。
 
 ## 快速开始
 这里填写如何简单上手我们的应用。(๑•̀ㅂ•́)و✧
