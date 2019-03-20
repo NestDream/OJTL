@@ -3,9 +3,9 @@
 Our general introduction here.  
 我们的项目名字是 Online Judge for Teaching and Learning.   
 适用于**教学平台**的OJ系统。
-- **主题**
-- <a href="#" data-link-title="Simple Dark">夜间模式</a>
-- <a href="#" data-link-title="Simple">日间模式</a>
+
+?> **更新** 我们更新了[前端文档](frontend-docs)和[后端文档](backend-docs)，分别包含前端*流程图*和*数据库设计*。
+
 ## 快速开始
 这里填写如何简单上手我们的应用。(๑•̀ㅂ•́)و✧
 
