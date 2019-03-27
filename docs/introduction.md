@@ -6,7 +6,8 @@ Our general introduction here.
 我们的项目名字是 Online Judge for Teaching and Learning.   
 适用于**教学平台**的OJ系统。
 
-
+## TODO
+搜索功能、奖励系统、学期总结报告（数据分析）。
 ## 快速开始
 这里填写如何简单上手我们的应用。(๑•̀ㅂ•́)و✧
 
