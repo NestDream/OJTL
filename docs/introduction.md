@@ -1,13 +1,18 @@
 # 简介
-?> **更新** 我们更新了[前端文档](frontend-docs)和[后端文档](backend-docs)，分别包含前端*流程图*和*数据库设计*。
-
+<p align="center">
 ![Nankai Univ.](http://www.nankai.edu.cn/_upload/tpl/00/3f/63/template63/images/logo.png "我是爱南开的")  
-Our general introduction here.  
-我们的项目名字是 nkcs-opep在线编程实验平台设计.   
-适用于**教学平台**的OJ系统。
+</p>
+这部分是我们的项目文档  
+
+我们的项目名字是 nkcs-opep在线编程实验平台设计.  
+
+是一个适用于**教学平台**的OJ系统
+
+这部分主要包含关于学生统计中心（学生年度报告）以及关于学生中心的设计问题
 
 ## License
 This project is licensed under the [MIT license](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE).
+
 <!-- 
 
 [![NPM](https://img.shields.io/npm/v/docsify-themeable.svg?style=flat-square)](https://www.npmjs.com/package/docsify-themeable)
