@@ -1,14 +1,12 @@
 # 简介
-<p align="center">
-![Nankai Univ.](http://www.nankai.edu.cn/_upload/tpl/00/3f/63/template63/images/logo.png "我是爱南开的")  
-</p>
+
 这部分是我们的项目文档  
 
 我们的项目名字是 nkcs-opep在线编程实验平台设计.  
 
 是一个适用于**教学平台**的OJ系统
 
-这部分主要包含关于学生统计中心（学生年度报告）以及关于学生中心的设计问题
+这部分主要为关于学生统计中心（学生年度报告）以及关于学生中心的设计文档
 
 ## License
 This project is licensed under the [MIT license](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE).
