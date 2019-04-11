@@ -5,9 +5,9 @@
 - [用户故事](user-story)
 - [规范及架构](development-framework)
 - [问题整理](questions)
-- [程序编写](coding-diary)
+- [编程日志](coding-diary)
 - [工作记录](todo)
-- [markdown入门](markdown)
+- [Markdown](markdown)
 
 
 
