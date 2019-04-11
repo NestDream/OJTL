@@ -3,27 +3,9 @@
 
 ![Nankai Univ.](http://www.nankai.edu.cn/_upload/tpl/00/3f/63/template63/images/logo.png "我是爱南开的")  
 Our general introduction here.  
-我们的项目名字是 Online Judge for Teaching and Learning.   
+我们的项目名字是 nkcs-opep在线编程实验平台设计.   
 适用于**教学平台**的OJ系统。
 
-
-## 快速开始
-这里填写如何简单上手我们的应用。(๑•̀ㅂ•́)و✧
-
-
-## 项目特点
-What is the feature of our OJ?  
-
-showing our  `code`
-
-```javascript
-const add   = (num1, num2) => num1 + num2;
-const total = add(1, 2);
-
-console.log(total); // 3
-```
-## 联系 & 支持
-如果做的人太多的话，联系链接应该也不需要了
 ## License
 This project is licensed under the [MIT license](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE).
 <!-- 

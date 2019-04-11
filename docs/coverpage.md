@@ -1,11 +1,9 @@
-# Online Judge for Teaching and Learning, Nankai University
+# nkcs-opep在线编程实验平台设计文档
 
-> 一个适用于教学场景的Online Judge系统
+> 一个适用于教学与实验课程场景的Online Judge系统
 
-- OJ特性A
-- OJ特性B
-- OJ特性C
-- 还有XX功能
+- 统计中心设计
+- 学生中心设计
 
 
 [开始浏览文档](introduction)

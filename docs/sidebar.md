@@ -1,13 +1,14 @@
 - [简介](introduction)
-- [设计](design)
+- [详细设计](design)
 - [规范及架构](development-framework)
 - [用户故事](user-story)
 - [前端文档](frontend-docs)
 - [后端文档](backend-docs)
 - [问题整理](questions)
-- [Coding Diary](coding-diary)
-- [Playground](markdown)
-- [TODO](todo)
+- [程序编写](coding-diary)
+- [工作记录](todo)
+- [markdown入门](markdown)
+
 
 
 <!--
