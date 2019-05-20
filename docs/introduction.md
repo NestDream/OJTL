@@ -1,6 +1,7 @@
 # 简介
 ![Nankai Univ.](http://www.nankai.edu.cn/_upload/tpl/00/3f/63/template63/images/logo.png "我是爱南开的")  
-?> **更新1**我们更新了本组负责内容的[用户故事](user-story)
+
+?> **更新1** 我们更新了本组负责内容的[用户故事](user-story)
 
 ?> **更新2** 我们更新了[学生统计中心设计文档](design?id=学生中心设计)和[学生月度报告设计文档](design?id=统计中心设计)。
 
