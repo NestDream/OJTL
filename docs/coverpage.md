@@ -5,7 +5,7 @@
 - 项目前端搭建
 - 统计中心设计
 - 学生中心设计
-
+- 小组成员：郭立、张慧斌、赵晨宇、周轩竹。
 
 [开始浏览文档](introduction)
 <!-- [Demo Sandbox](https://codesandbox.io/s/xv36w4695o) -->
