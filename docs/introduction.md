@@ -1,8 +1,8 @@
 # 简介
 
 ## 小组最新进展
-- 我们更新了[项目内容展示的PPT](/小组展示.pptx)，里面包含了我们在[前端设计](https://github.com/nkucs/student-frontend)和[后端搭建](https://github.com/nkucs/server)的具体工作内容
-- 我们更新了项目的接口文档[接口文档](backend-docs)
+- 我们更新了[项目内容展示的PPT](./小组展示.pptx)，里面包含了我们在[前端设计](https://github.com/nkucs/student-frontend)和[后端搭建](https://github.com/nkucs/server)的具体工作内容
+- 我们更新了项目的接口文档[接口文档](backend-docs?id=后端接口实现记录)
 - 我们更新了本组负责内容的[用户故事](user-story)
 - 我们更新了[学生统计中心设计文档](design?id=学生中心设计)和[学生月度报告设计文档](design?id=统计中心设计)。
 - 我们更新了[前端文档](frontend-docs)和[后端文档](backend-docs)，分别包含前端*流程图*和*数据库设计*。
